@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tinder_View.iml" filepath="$PROJECT_DIR$/Tinder_View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tinder_View85.iml" filepath="$PROJECT_DIR$/Tinder_View85.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

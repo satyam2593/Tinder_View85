@@ -13,12 +13,12 @@ import android.widget.TableRow.LayoutParams;
 
 public class DynamicTable extends Activity {
 
-   /* String companies[] = {"Google","Windows","iPhone","Nokia","Samsung",
+    String companies[] = {"Google","Windows","iPhone","Nokia","Samsung",
             "Google","Windows","iPhone","Nokia","Samsung",
             "Google","Windows","iPhone","Nokia","Samsung"};
     String os[]       =  {"Android","Mango","iOS","Symbian","Bada",
             "Android","Mango","iOS","Symbian","Bada",
-            "Android","Mango","iOS","Symbian","Bada"};*/
+            "Android","Mango","iOS","Symbian","Bada"};
 
     String sub_code[] = {"SUB01","SUB02","SUB03","SUB04","SUB05"};
     String sub_name[] = {"Networking","Java","Apache Spark","Android","Clinical Research"};
